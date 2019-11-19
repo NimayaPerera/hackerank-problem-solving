@@ -1,5 +1,5 @@
 #include<iostream>
-#define MAX 10^5
+#define MAX 100000
 
 using namespace std;
 
